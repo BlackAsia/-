@@ -24,7 +24,7 @@ npm run dev
 
 DEMO
 
-访问地址: <a href="https://vqlai.github.io/dist/#/" target="_blank">个人简历</a>
+访问地址: <a href="https://blackasia.github.io/are-there-more-decades.github.io/dist/" target="_blank">个人简历</a>
 
 交流
 

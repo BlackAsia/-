@@ -3,7 +3,7 @@
   	<div class="container">
   		<slot></slot>
   	  <div class="banner">
-  	    <div class="avator"><img src="../common/images/avator.jpg" alt=""></div>
+  	    <div class="avator"><img src="../common/images/web2.jpg" alt=""></div>
   	    <div class="info">
   	      <h5 class="hello">Hello</h5>
   	      <h1>{{info.name}}</h1>
@@ -28,13 +28,13 @@ export default {
   data () {
     return {
       info: {
-      	"name": "I,m cisco lai",
-      	"job": "h5 Developer and Web Engineer",
-      	"birth": "19XX-10-08",
-      	"email": "6958XXX46@qq.com",
-      	"phone": "1772798XXXX",
-      	"address": "深圳市罗湖区xxx",
-      	"website": "https://vqlai.github.io/dist/#/index"
+      	"name": "陈亚洲",
+      	"job": "前端开发工程师",
+      	"birth": "1992-12-13",
+      	"email": "chen1278722106lei@163.com",
+      	"phone": "13323816872",
+      	"address": "上海市宝山区韶山路245弄",
+      	"website": "https://blackasia.github.io/are-there-more-decades.github.io/dist/#/index"
       }
     }
   }

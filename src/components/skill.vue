@@ -30,8 +30,8 @@ export default {
     		{"type": "bootstrap","percent": "80%"},
     		{"type": "swiper","percent": "80%"},
     		{"type": "seajs","percent": "80%"},
-    		{"type": "vuejs","percent": "60%"},
-    		{"type": "java/jsp","percent": "50%"}
+    		{"type": "vue","percent": "80%"},
+    		{"type": "react","percent": "60%"}
     	]
     }
   },

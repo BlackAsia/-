@@ -6,9 +6,9 @@
       <span class="border"></span>
       <ul>
         <li><img src="../common/images/web1.jpg" alt="项目1"></li>
-        <li><img src="../common/images/web1.jpg" alt="项目2"></li>
+        <li><img src="../common/images/avator.jpg" alt="项目2"></li>
         <li><img src="../common/images/web1.jpg" alt="项目3"></li>
-        <li><img src="../common/images/web1.jpg" alt="项目4"></li>
+        <li><img src="../common/images/avator.jpg" alt="项目4"></li>
         <div class="clearfix"></div>
       </ul>
     </div>
